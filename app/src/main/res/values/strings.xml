@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyBase</string>
+    <string name="exit_app_hint">再按一次返回键退出程序</string>
+</resources>
